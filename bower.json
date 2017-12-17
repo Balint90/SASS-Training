@@ -1,0 +1,22 @@
+{
+  "name": "sassy",
+  "description": "This is a sample project to learn Sass.",
+  "main": "index.html",
+  "authors": [
+    "Bálint Csertán"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bourbon": "^4.3.4",
+    "susy": "^3.0.1",
+    "normalize-css": "^7.0.0"
+  }
+}
