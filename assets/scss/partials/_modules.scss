@@ -1,0 +1,21 @@
+.hero .overlay {
+	background: rgba($orange, .7);
+}
+
+.hero {
+	text-align: center;
+}
+
+.hero .wrap {
+	padding: 60px 0px;
+}
+
+.feature img {
+	border-radius: $default-border-radius;
+	@include size(250px auto);
+}
+
+.customer img {
+	border-radius: $default-border-radius;
+	@include size(150px);
+}
